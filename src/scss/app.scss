@@ -1,0 +1,31 @@
+
+/* import abstract folder */
+@import 'abstract/var';
+@import 'abstract/utilities';
+@import 'abstract/mixins';
+@import 'abstract/functions';
+
+/* import base folder */
+@import 'base/reset';
+@import 'base/base';
+@import 'base/fonts';
+@import 'base/typography';
+
+/* import components folder */
+@import 'components/buttons';
+@import 'components/carousel';
+// import layout folder
+@import 'layout/header';
+@import 'layout/sidebar';
+@import 'layout/navigations';
+@import 'layout/footer';
+
+
+/* import pages folder */
+@import 'pages/home';
+
+/* import themes folder*/
+
+
+
+/* import  Vendor  folder*/
